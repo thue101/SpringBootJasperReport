@@ -1,0 +1,10 @@
+insert into employee (id, name, designation, salary, doj) values (1, 'Marylinda', 'Software Engineer III', 2316.37, '28/08/2001');
+insert into employee (id, name, designation, salary, doj) values (2, 'Nanete', 'Legal Assistant', 1684.8, '26/08/2008');
+insert into employee (id, name, designation, salary, doj) values (3, 'Bendix', 'Software Test Engineer II', 8224.8, '09/03/2007');
+insert into employee (id, name, designation, salary, doj) values (4, 'Bord', 'Safety Technician IV', 9013.64, '17/01/2006');
+insert into employee (id, name, designation, salary, doj) values (5, 'Morena', 'Accounting Assistant II', 6719.95, '06/08/2005');
+insert into employee (id, name, designation, salary, doj) values (6, 'Randie', 'Software Test Engineer I', 2856.41, '26/11/2001');
+insert into employee (id, name, designation, salary, doj) values (7, 'Monte', 'Assistant Media Planner', 1527.77, '12/05/2020');
+insert into employee (id, name, designation, salary, doj) values (8, 'Adriena', 'Biostatistician I', 7210.82, '26/08/2012');
+insert into employee (id, name, designation, salary, doj) values (9, 'Drucie', 'Account Coordinator', 3039.21, '12/06/2004');
+insert into employee (id, name, designation, salary, doj) values (10, 'Myron', 'Paralegal', 8733.95, '23/11/2007');
